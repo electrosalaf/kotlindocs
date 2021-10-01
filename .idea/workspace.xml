@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1f22f15-5157-4f41-b1c2-85659066872c" name="Default Changelist" comment="" />
+    <list default="true" id="c1f22f15-5157-4f41-b1c2-85659066872c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/checkingelementpresence.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/dtos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/executeifnotnull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/extensionfunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/getfirstcollectionitem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/idiomatickotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/instancechecks.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/instantiatingabstract.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/mappingandaccessing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/mappingnonnull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/shortifnotnull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/singleton.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/stringinterpolation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinDocs/META-INF/KotlinDocs.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDocs/META-INF/KotlinDocs.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1yrPo014OwoUvDdbDVVDzzV1naF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,33 +44,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.Typechecks2Kt">
-    <configuration name="LambdafilterdemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.ExtensionfunctionsKt">
+    <configuration name="ExtensionfunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinDocs" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basicsyntax.collections.LambdafilterdemoKt" />
+      <option name="MAIN_CLASS_NAME" value="idioms.ExtensionfunctionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturningnullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="MappingandaccessingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinDocs" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basicsyntax.nullablechecks.ReturningnullKt" />
+      <option name="MAIN_CLASS_NAME" value="idioms.MappingandaccessingKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExtensionfunctionsKt" />
+        <item itemvalue="Kotlin.MappingandaccessingKt" />
         <item itemvalue="Kotlin.Typechecks2Kt" />
         <item itemvalue="Kotlin.TypechecksKt" />
         <item itemvalue="Kotlin.ReturningnullfunKt" />
-        <item itemvalue="Kotlin.ReturningnullKt" />
-        <item itemvalue="Kotlin.LambdafilterdemoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,22 +140,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1346" height="179" key="GridCell.Tab.0.bottom" timestamp="1633038625579">
+    <state x="275" y="22" key="#Intentions" timestamp="1633076663366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1633038625579" />
-    <state width="1346" height="179" key="GridCell.Tab.0.center" timestamp="1633038625578">
+    <state x="275" y="22" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1633076663366" />
+    <state x="462" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1633075133669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1633038625578" />
-    <state width="1346" height="179" key="GridCell.Tab.0.left" timestamp="1633038625578">
+    <state x="462" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1633075133669" />
+    <state width="1346" height="179" key="GridCell.Tab.0.bottom" timestamp="1633077907830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1633038625578" />
-    <state width="1346" height="179" key="GridCell.Tab.0.right" timestamp="1633038625579">
+    <state width="1346" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1633077907830" />
+    <state width="1346" height="179" key="GridCell.Tab.0.center" timestamp="1633077907830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1633038625579" />
+    <state width="1346" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1633077907830" />
+    <state width="1346" height="179" key="GridCell.Tab.0.left" timestamp="1633077907830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1346" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1633077907830" />
+    <state width="1346" height="179" key="GridCell.Tab.0.right" timestamp="1633077907830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1346" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1633077907830" />
     <state x="214" y="7" key="SettingsEditor" timestamp="1633031279469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
