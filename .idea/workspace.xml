@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1f22f15-5157-4f41-b1c2-85659066872c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/checkingelementpresence.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/dtos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/executeifnotnull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/extensionfunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/getfirstcollectionitem.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/idiomatickotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/instancechecks.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/instantiatingabstract.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/mappingandaccessing.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/mappingnonnull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/shortifnotnull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/singleton.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/stringinterpolation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/builderstyledmethodusage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/callingmultiplemethods.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/configureobjectproperty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/genericfuctionwithgenerictype.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/ifexpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/nullableboolean.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/todo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/trycatchexpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/trywithresources.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/variableswap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/idioms/whenreturn.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDocs/META-INF/KotlinDocs.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDocs/META-INF/KotlinDocs.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,10 +136,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Intentions" timestamp="1633076663366">
+    <state x="275" y="22" key="#Intentions" timestamp="1633083473806">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1633076663366" />
+    <state x="275" y="22" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1633083473806" />
     <state x="462" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1633075133669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
